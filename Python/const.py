@@ -1,0 +1,12 @@
+SOCKET = None
+
+CLOSE_CONNECTION = False
+
+LAST_PACKET_LENGTH = 0
+
+SERVER_TIME = -1
+
+PACKET_NR = 0
+
+X = 0
+Y = 0
